@@ -9,7 +9,7 @@ Recruiter is an git testing application. Download at you own risk :)
 This is all trial for now, so before you try to install, organize your machine. Download and install composer.
 
 - Clone or download the repository (local server)
-- in the root folder copy .env.example adn rename it .env
+- in the root folder copy .env.example and rename it .env
 - in .env connect it to the database
 - in your terminal, get to root folder of the repository
 - type 'composer install'
