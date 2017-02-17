@@ -6,6 +6,6 @@ Recruiter is an git testing application. Download at you own risk :)
 
 ## Installing Recruiter
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- For now it's just bla, bla
+- Until I work out something and learn a little bit git
+- Checkout [AGmedia](http://www.agmedia.hr)
