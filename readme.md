@@ -15,6 +15,8 @@ This is all trial for now, so before you try to install, organize your machine. 
 - type 'composer install'
 - type 'php artisan serve' and go to the shown url
 
+It should work, but... nothing is certain.
+
 ## Project by
 
 - [AGmedia](http://www.agmedia.hr)
