@@ -1,4 +1,4 @@
-<p align="center"><img src="http://www.agmedia.hr/placeholders/logo@2x.png"></p>
+<p align="center"><img src="http://agcloud.eu/git/recruiter-header.jpg"></p>
 
 ## Recruiter AGM
 
