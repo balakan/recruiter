@@ -1,0 +1,28 @@
+html, body {
+  background-color: #fff;
+  font-weight: 300;
+  color: #636b6f;
+  height: 100vh;
+  margin: 0;
+}
+
+.button {
+  font-weight: 500;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.top-bar-left a:link, a:active, a:visited {
+  text-decoration: none;
+  color: #636b6f;
+  font-size: 16px;
+  font-weight: 500;
+}
+.top-bar-left a:hover {
+  text-decoration: none;
+  color: #3ba054;
+  font-size: 16px;
+  font-weight: 500;
+}

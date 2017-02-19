@@ -1,9 +1,16 @@
 
 // Fonts
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+//@import url(https://fonts.googleapis.com/css?family=Raleway:400);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,500);
 
 // Variables
-@import "variables";
+@import "settings";
 
 // Bootstrap
-@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "node_modules/foundation-sites/scss/foundation";
+
+@include foundation-everything(true);
+
+
+// Custom styles
+@import "ag/ag-layout";
