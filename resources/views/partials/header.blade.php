@@ -3,7 +3,8 @@
         <div class="top-bar">
             <div class="top-bar-left">
                 <a href="{{ url('/') }}">
-                    {{ config('app.name', 'Laravel') }}
+                    {{--{{ config('app.name', 'Laravel') }}--}}
+                    <img src="{{ URL::to('/') }}/images/recruitment-header-logo.png" alt="Logo" style="height: 36px">
                 </a>
             </div>
 
