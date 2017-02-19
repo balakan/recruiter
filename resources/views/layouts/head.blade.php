@@ -11,8 +11,8 @@
 
 
 <!-- Styles -->
-<link href="/css/app.css" rel="stylesheet">
-
+<link href="css/app.css" rel="stylesheet">
+<link href="css/icons.css" rel="stylesheet">
 
 <!-- Scripts -->
 <script>

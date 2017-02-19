@@ -15,6 +15,7 @@ const { mix } = require('laravel-mix');
    .sass('resources/assets/sass/app.scss', 'public/css');*/
 
 mix.sass('resources/assets/sass/app.scss', 'public/css');
+mix.sass('resources/assets/sass/icons.scss', 'public/css');
 mix.js('resources/assets/js/app.js', 'public/js');
 mix.combine([
     'node_modules/jquery/dist/jquery.min.js',
