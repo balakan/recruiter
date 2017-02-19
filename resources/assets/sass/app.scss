@@ -11,6 +11,8 @@
 
 @include foundation-everything(true);
 
+@import "node_modules/motion-ui/motion-ui";
+
 .no-js {
   @include breakpoint(small only) {
     .top-bar {
@@ -34,3 +36,4 @@
 // Custom styles
 @import "ag/ag-layout";
 @import "ag/login";
+@import "ag/slider";
